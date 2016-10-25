@@ -13,5 +13,6 @@
 !
 !-----------------General Popunders-----------------!
 
-##div[id*="Modal"i]
-##div[class*="Modal"i]
+newsbtc.com##div[id*="Modal"i]
+newsbtc.com##div[class*="Modal"i]
+freebitco.in##div[id*="Modal"i]
