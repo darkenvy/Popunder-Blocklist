@@ -1,0 +1,17 @@
+[PopUnder Block 0.1]
+! Version: 
+! The contents of this filter list are fetched from the Popunder-Block repository: 
+! Title: 
+! Last modified: 
+! Expires: 4 days (update frequency)
+! Homepage: 
+! Licence: 
+!
+! Please report any unblocked tracking or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+!
+!-----------------General Popunders-----------------!
+
+##div[id*="Modal"i]
+##div[class*="Modal"i]
